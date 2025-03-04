@@ -1,0 +1,72 @@
+Welcome to the Stock Trading Platform!
+1. View Market Data
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Choose an option: 1
+
+Market Data:
+AAPL: $150.0
+GOOG: $2800.0
+AMZN: $3400.0
+
+
+Welcome to the Stock Trading Platform!
+1. View Market Data
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Choose an option: 2
+Enter stock ticker (AAPL, GOOG, AMZN): AAPL
+Enter quantity to buy: 20
+Bought 20 shares of AAPL at 150.0 each.
+
+
+Welcome to the Stock Trading Platform!
+1. View Market Data
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Choose an option: 4
+
+Portfolio Summary:
+Stock: AAPL, Shares Owned: 20
+Balance: $7000.0
+
+
+Welcome to the Stock Trading Platform!
+1. View Market Data
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Choose an option: 3
+Enter stock ticker (AAPL, GOOG, AMZN): AAPL
+Enter quantity to sell: 10
+Sold 10 shares of AAPL at 150.0 each.
+
+
+Welcome to the Stock Trading Platform!
+1. View Market Data
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Choose an option: 4
+
+Portfolio Summary:
+Stock: AAPL, Shares Owned: 10
+Balance: $8500.0
+
+
+Welcome to the Stock Trading Platform!
+1. View Market Data
+2. Buy Stocks
+3. Sell Stocks
+4. View Portfolio
+5. Exit
+Choose an option: 5
+Thank you for using the platform!
